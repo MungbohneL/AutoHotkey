@@ -1,7 +1,7 @@
 ; 读书模式
 book_index:= 1
-book_path:= "g:\Downloads\AutoHotkey_2.0.19\book_mode\"
-book_file:= "g:\Downloads\AutoHotkey_2.0.19\book_mode\book.txt"
+book_path:= "..\book_mode\"
+book_file:= "..\book_mode\book.txt"
 book:= []
 book_flag:= false
 reading_flag:= false
